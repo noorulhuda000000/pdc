@@ -233,7 +233,7 @@ Motif patterns were identified and counted across protein sequences.
 
 ## Visualization
 
-![Motif Frequency]("C:\Users\hp\Desktop\PDC_FinalLab_ProteinFeatures\03_Results\motiffreq.png")
+![Motif Frequency](motiffreq.png)
 
 ## Interpretation
 
