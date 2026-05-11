@@ -159,7 +159,7 @@ The distribution of protein sequence lengths was analyzed across the proteome.
 
 ## Visualization
 
-![Protein Length Distribution]("C:\Users\hp\Desktop\PDC_FinalLab_ProteinFeatures\03_Results\image1.png")
+![Protein Length Distribution](image1.png)
 
 ## Statistical Summary
 
