@@ -206,7 +206,7 @@ The frequency of amino acids across the proteome was calculated.
 
 ## Visualization
 
-![Amino Acid Composition]("C:\Users\hp\Desktop\PDC_FinalLab_ProteinFeatures\03_Results\aminoacidcompos.png")
+![Amino Acid Composition](aminoacidcompos.png)
 
 ## Interpretation
 
