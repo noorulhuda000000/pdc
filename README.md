@@ -184,7 +184,7 @@ Proteins were categorized into families using keyword-based classification from 
 
 ## Visualization
 
-![Protein Family Distribution]("C:\Users\hp\Desktop\PDC_FinalLab_ProteinFeatures\03_Results\proteinfamilydistributions.png")
+![Protein Family Distribution](proteinfamilydistributions.png)
 
 ## Observed Counts
 
